@@ -65,10 +65,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2048290" height="30" width="40" />
   </a>
 </p>
-
-<br/>
-
-<h2 align="left">Stats</h2>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezrarieben&show_icons=true&locale=en&layout=compact" alt="ezrarieben" />
-</p>
